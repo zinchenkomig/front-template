@@ -26,3 +26,7 @@ image_name:
 tg_bot_id:
   type: str
   help: Telegram Bot ID
+
+is_ssl_active:
+  type: str
+  help: Is SSL Active
